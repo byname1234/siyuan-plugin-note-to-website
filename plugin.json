@@ -32,5 +32,8 @@
   },
   "keywords": [
     "plugin", "NoteToWebsite", "note-to-website", "html"
+  ],
+  "repos": [
+    "byname1234/plugin-sample-vite-svelte"
   ]
 }
