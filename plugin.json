@@ -1,0 +1,36 @@
+{
+  "name": "siyuan-plugin-note-to-website",
+  "author": "byname1234",
+  "url": "https://github.com/byname1234/siyuan-plugin-note-to-website",
+  "version": "0.0.1",
+  "minAppVersion": "3.0.16",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "en_US": "NoteToWebsite",
+    "zh_CN": "NoteToWebsite"
+  },
+  "description": {
+    "en_US": "Convert note to website",
+    "zh_CN": "将笔记转换为HTML网站"
+  },
+  "readme": {
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "keywords": [
+    "plugin", "NoteToWebsite", "note-to-website", "html"
+  ]
+}
