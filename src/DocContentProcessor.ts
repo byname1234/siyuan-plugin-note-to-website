@@ -1823,11 +1823,6 @@ export class DocContentProcessor {
      * @returns {Promise<string>} 处理后的Kramdown内容
      */
     public async processSiYuanRefsTo(kdContent: string, block: Block): Promise<string> {
-
-        if (block.id === "20240613141513-a9c8ax9") {
-            console.log("xx-999-xx");
-        }
-
         this.plugin.checkInterrupt();
         let newContent: string = kdContent;
         if (kdContent.length === 0) {

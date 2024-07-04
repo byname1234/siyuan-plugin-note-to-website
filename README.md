@@ -98,6 +98,10 @@
 
     👉 Check if a network proxy is enabled. Disable the proxy and try again; 
 
+2. After transferring a note from the current notebook to another notebook, the generated website content is partially missing.
+
+    👉 Try again after selecting "Rebuild Index" in the document tree;
+
 ## 🐞 Issue
 
 To report bugs or other issues, click [here](https://github.com/byname1234/siyuan-plugin-note-to-website/issues) to start a discussion.

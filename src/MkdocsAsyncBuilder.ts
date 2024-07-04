@@ -164,6 +164,7 @@ export class MkdocsAsyncBuilder {
         this.plugin.checkInterrupt();
         this.plugin.updateProgress("获取所有块对象 ...");
         await this.getAllBlocksOfDoc(this.plugin.curRootDoc, this.plugin.allBlocksOfRootDoc);
+
         let totalBlocksCnt: number = this.plugin.calTotalCntOfBlocks();
         this.plugin.updateProgress("块对象总数: " + totalBlocksCnt);
 

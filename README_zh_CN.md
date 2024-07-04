@@ -98,6 +98,10 @@
 
     👉 检查是否启用了网络代理，关闭代理后再试。
 
+2. 把某笔记从当前笔记本转移到另一个笔记本后，生成的网站内容出现部分缺失
+
+    👉 在文档树中选择“重建索引”后再试。
+
 ## 🐞 Issue
 
 发现Bug或有其他问题，点击[此处](https://github.com/byname1234/siyuan-plugin-note-to-website/issues)进行讨论。
