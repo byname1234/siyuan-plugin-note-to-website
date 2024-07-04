@@ -2,7 +2,7 @@
   "name": "siyuan-plugin-note-to-website",
   "author": "byname1234",
   "url": "https://github.com/byname1234/siyuan-plugin-note-to-website",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minAppVersion": "3.0.16",
   "backends": [
     "windows",
